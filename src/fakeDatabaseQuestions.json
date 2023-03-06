@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "quizId": 1,
+    "questionText": "Quel est le statut de Jonathan ?",
+    "answerOptions": [
+      { "answerText": "Stagiaire", "isCorrect": false },
+      { "answerText": "VIE", "isCorrect": true },
+      { "answerText": "Chômeur", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "quizId": 1,
+    "questionText": "Quel est le nom du PDG de Tesla ?",
+    "answerOptions": [
+      { "answerText": "Britney Spears", "isCorrect": false },
+      { "answerText": "Jeff Bezos", "isCorrect": false },
+      { "answerText": "Elon Musk", "isCorrect": true },
+      { "answerText": "Princesse Fiona", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "quizId": 2,
+    "questionText": "How many cars Stellantis Trnava produce per day ?",
+    "answerOptions": [
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "100", "isCorrect": false },
+      { "answerText": "1000", "isCorrect": true },
+      { "answerText": "10000", "isCorrect": false }
+    ]
+  }
+]
